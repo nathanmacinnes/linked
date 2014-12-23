@@ -1,4 +1,4 @@
 linked
 ======
 
-Simple jQuery plugin to link inputs together
+Simple jQuery plugin to link inputs together.
